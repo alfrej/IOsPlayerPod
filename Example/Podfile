@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IOsPlayer_Example' do
+  pod 'IOsPlayer', :path => '../'
+
+  target 'IOsPlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

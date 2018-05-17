@@ -1,0 +1,6 @@
+framework module IOsPlayer {
+  umbrella header "IOsPlayer-umbrella.h"
+
+  export *
+  module * { export * }
+}

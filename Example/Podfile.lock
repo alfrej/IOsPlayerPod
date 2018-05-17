@@ -1,0 +1,16 @@
+PODS:
+  - IOsPlayer (0.1.0)
+
+DEPENDENCIES:
+  - IOsPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  IOsPlayer:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IOsPlayer: 8a82f1cd9750f83c17ca728dfb3ee48918c547ca
+
+PODFILE CHECKSUM: f57d2979527b70e373fb87737478fbe78bba71ea
+
+COCOAPODS: 1.4.0
